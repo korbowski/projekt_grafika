@@ -1,0 +1,4 @@
+C:\Users\wodak\source\repos\GK\OpenGL-Solar-System-master\Debug\grk-cw5.exe
+C:\Users\wodak\source\repos\GK\Karol_Woda_Wojciech_Zacharski_Projekt\Debug\grk-cw5.exe
+C:\korba\studia\grafika kopmuterowa\Karol_Woda_Wojciech_Zacharski_Projekt\Debug\grk-cw5.exe
+C:\korba\studia\grafika kopmuterowa\Cyminski_Ciryt_Dabrowski_projekt\Debug\grafika_projekt.exe
